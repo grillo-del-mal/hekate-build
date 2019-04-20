@@ -1,0 +1,6 @@
+[submodule "hekate/fusee-launcher"]
+path = fusee-launcher
+url = https://github.com/Cease-and-DeSwitch/fusee-launcher.git
+[submodule "hekate/hekate"]
+path = hekate
+url = https://github.com/CTCaer/hekate.git
